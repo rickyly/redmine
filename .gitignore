@@ -3,6 +3,8 @@
 /.loadpath
 /.powrc
 /.rvmrc
+/.svn
+
 /config/additional_environment.rb
 /config/configuration.yml
 /config/database.yml
@@ -40,4 +42,3 @@
 /.bundle
 /Gemfile.lock
 /Gemfile.local
-
