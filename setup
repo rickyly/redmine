@@ -1,0 +1,5 @@
+bundle exec rake generate_secret_token
+mkdir -p tmp tmp/pdf public/plugin_assets
+sudo chown -R www-data:www-data Gemfile.lock files log tmp public public/plugin_assets
+sudo chmod -R 755 files log tmp public/plugin_assets
+
